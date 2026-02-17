@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:antonyanjalose007@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:antonyanjalose007@gmail.com"><img src="https://img.shields.io/badge/📧antonyanjalose007@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/antony-anjalose-9297b1216">
+  <a href="https://linkedin.com/in/antony-anjalose-9297b1216">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -64,14 +64,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+ <img src="https://skillicons.dev/icons?i=html,css,js" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,redux,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap" />
 </td>
 
 
@@ -102,7 +102,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Antonyanjalose&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
